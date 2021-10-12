@@ -1,0 +1,151 @@
+* {
+    font-family: "宋体";
+}
+
+div {
+    border-radius: 5px;
+    /* border: 1px solid #aacfd0; */
+}
+
+#container {
+    margin: 2%;
+    width: 540px;
+    height: 720px;
+    border: 1px solid #79a8a9;
+    background-color: #aacfd0;
+    font-size: 14px;
+    color: #003b42;
+}
+
+#banner {
+    margin-top: 1.2%;
+    margin-left: 1.2%;
+    margin-bottom: 0.5%;
+    width: 97.3%;
+    height: 8%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+}
+
+#main_left {
+    float: left;
+    margin-left: 1.15%;
+    width: 32%;
+    height: 89%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+
+}
+
+#main_left div {
+    margin: 3%;
+    width: 93%;
+    /* border: 1px solid #003b42; */
+    background-color: #aacfd0;
+}
+
+#main_left_1 {
+    height: 28%;
+}
+
+
+#main_left_2 {
+    height: 15%;
+}
+
+#main_left_3 {
+    height: 15%;
+}
+
+#main_left_4 {
+    height: 36.5%;
+}
+
+
+#main_right {
+    float: left;
+    width: 65%;
+    height: 89%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+}
+
+#main_right div {
+    margin-top: 1.5%;
+    margin-left: 1.1%;
+    width: 97%;
+    /* border: 1px solid #003b42; */
+    background-color: #79a8a9;
+    color: #002529;
+}
+
+#main_right_1 {
+    height: 12%;
+
+}
+
+
+#main_right_2 {
+    height: 15%;
+}
+
+#main_right_3 {
+    height: 44%;
+    
+}
+
+#main_right_4 {
+    height: 23.5%;
+}
+
+#name1{
+    float: left;
+    height: 10%;
+    border: 2px solid #245e5f;
+}
+
+#name2{
+    float: left;
+    width: 30%;
+    height: 30%;
+    border: 2px solid #245e5f;
+}
+
+#name3{
+    float: left;
+    width: 30%;
+    height: 15%;
+    border: 2px solid #245e5f;
+    background-color: #d5edee;
+}
+
+#name4{
+    float: left;
+    width: 30%;
+    height: 7%;
+    border: 2px solid #245e5f;
+    
+}
+
+#name5{
+   
+    border: 2px solid #daf8f8;
+}
+
+#name6{
+ 
+    border: 2px solid #daf8f8;
+    
+}
+
+#name7{
+    
+    border: 2px solid #daf8f8;
+    
+}
+
+#name8{
+    
+    border: 3px solid #daf8f8;
+    background-color: #d17c1c;
+}
